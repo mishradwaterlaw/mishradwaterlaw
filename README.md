@@ -39,7 +39,7 @@ I'm currently exploring programming, data analysis, and web development. I'm not
 
 > I keep things simple and open source. Most of what I do is public so I can track progress.. PS- i post stories on insta for things i make but they never make it to my github (publically hehe), cuz i think of them as not good enough, even my titanic project is private now...You're gonna have to trust me that i made that project and someday i might make it oublic as a full on ML project.
 
-[Titanic Dataset Exploration](https://github.com/mishradwaterlaw/titanicdatasetfirst-application) – basic data exploration using Pandas & Matplotlib
+[Titanic Dataset Exploration](https://github.com/mishradwaterlaw/titanicdatasetfirst-application) - basic data exploration using Pandas & Matplotlib
 
 More coming soon...
 
@@ -53,4 +53,4 @@ Feel free to text or just say hi on insta, i love talking to people:
 
 ---
 
-<sub>Everything here is a work-in-progress — just like me.</sub>
+<sub>Everything here is a work in progress... just like me.</sub>
