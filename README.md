@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E8B57&width=700&lines=Tezash+Mishra;I+doubt+every+step+I+take+but+I+still+take+them.;-+Zash%2C+2023" alt="Typing SVG" />
-</p>
-
 <p align="center">Learning to code, analyze data, and build small things,,one step at a time.</p>
 
 ---
