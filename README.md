@@ -32,7 +32,8 @@ I'm a first-year Information Technology student, I'm currently exploring full-st
 - **Real Time Systems**: Building apps with WebRTC and sub-second data syncing.
 - **DSA in C++**: Strengthening problem-solving foundations for technical interviews.
 - **Full-Stack Development**: Exploring the intersection of Next.js and reactive backends.
-- **Open Source**: Preparing for programs like GSoC and LFX Mentorship.
+- **Open Source**: Trying to learn contributing to open source projects for programs like GSoC and LFX Mentorship.
+- 
 
 ---
 
