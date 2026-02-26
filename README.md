@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a first-year Information Science student based in Mysuru. I'm currently exploring full-stack engineering, real-time systems, and data analysis. I'm not an expert—just curious, consistent, and building things that solve real problems. I document my journey through projects here on GitHub and share the "behind the scenes" on Instagram.
+I'm a first-year Information Technology student, I'm currently exploring full-stack engineering, real-time systems, and data analysis. I'm not an expert..just curious, consistent, and building things that solve real problems. I document my journey through projects here on GitHub and share the "behind the scenes" on Instagram.
 
 ---
 
@@ -29,7 +29,7 @@ I'm a first-year Information Science student based in Mysuru. I'm currently expl
 
 ## What I'm Working On
 
-- **Real-Time Systems**: Building apps with WebRTC and sub-second data syncing.
+- **Real Time Systems**: Building apps with WebRTC and sub-second data syncing.
 - **DSA in C++**: Strengthening problem-solving foundations for technical interviews.
 - **Full-Stack Development**: Exploring the intersection of Next.js and reactive backends.
 - **Open Source**: Preparing for programs like GSoC and LFX Mentorship.
@@ -38,7 +38,7 @@ I'm a first-year Information Science student based in Mysuru. I'm currently expl
 
 ## Featured Projects
 
-### 🚀 [SynIntView](https://github.com/your-username/SynIntView)
+### 🚀 [SynIntView](https://github.com/mishradwaterlaw/SynIntView)
 A professional-grade Technical Interview Platform. This isn't just a "UI project"—it's a full-on feature implementation focusing on real-time engineering:
 - **WebRTC Video**: Multi-layout video conferencing with automated theater mode for screen sharing.
 - **Collaborative Editor**: A live-syncing Monaco editor for real-time coding assessments.
@@ -48,7 +48,7 @@ A professional-grade Technical Interview Platform. This isn't just a "UI project
 ### 📊 [Titanic Dataset Exploration](https://github.com/mishradwaterlaw/titanicdatasetfirst-application)
 Basic data exploration using Pandas & Matplotlib. (Currently refining my ML skills to make this a full predictive model soon!)
 
-> I keep things simple and open source. Most of what I do is public so I can track progress. PS- I post stories on Insta for things I make but they don't always make it to GitHub immediately because I'm a bit of a perfectionist (hehe). You're gonna have to trust me—the progress is real!
+> I keep things simple and open source. Most of what I do is public so I can track progress. PS- I post stories on Insta for things I make but they don't always make it to GitHub immediately because I'm a bit of a perfectionist (hehe). You're gonna have to trust me,the progress is real!
 
 ---
 
