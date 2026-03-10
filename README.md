@@ -2,7 +2,7 @@
 
 # Tezash Mishra
 
-**IT Student · Full-Stack Engineer · Builder**
+**IT Student · Full-Stack Engineer · Builder** Building EchoSort!!
 
 Learning to code, analyze data, and build real things, one project at a time.
 
