@@ -63,7 +63,7 @@ I document my journey through projects here on GitHub and share the behind-the-s
 ## Featured Projects
 
 ### EchoSort
-
+https://github.com/mishradwaterlaw/echosort
 > Event photo sharing with facial recognition. Upload a selfie, get back every photo of you from the entire event gallery.
 
 A full-stack application built from scratch across five deployment platforms. Attendees visit a shared event link, take a selfie, and the system uses ArcFace face embeddings and pgvector cosine similarity search to find every matching photo in the event gallery.
