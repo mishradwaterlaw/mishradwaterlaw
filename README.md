@@ -1,64 +1,122 @@
-<p align="center">Learning to code, analyze data, and build small things, one step at a time.</p>
+<div align="center">
+
+# Tezash Mishra
+
+**IT Student · Full-Stack Engineer · Builder**
+
+Learning to code, analyze data, and build real things, one project at a time.
+
+[![Instagram](https://img.shields.io/badge/@tezashmishra-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tezashmishra)
+
+</div>
 
 ---
 
 ## About Me
 
-I'm a first-year Information Technology student, I'm currently exploring full-stack engineering, real-time systems, and data analysis. I'm not an expert..just curious, consistent, and building things that solve real problems. I document my journey through projects here on GitHub and share the "behind the scenes" on Instagram.
+First-year Information Technology student exploring full-stack engineering, machine learning pipelines, and real-time systems. Not an expert, just curious, consistent, and building things that solve real problems.
+
+I document my journey through projects here on GitHub and share the behind-the-scenes on Instagram.
 
 ---
 
-## Tech Stack & Tools
+## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Convex-FFDA44?style=for-the-badge&logo=convex&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+**Languages**
 
----
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## What I'm Working On
+**Frontend**
 
-- **Real Time Systems**: Building apps with WebRTC and sub-second data syncing.
-- **DSA in C++**: Strengthening problem-solving foundations for technical interviews.
-- **Full-Stack Development**: Exploring the intersection of Next.js and reactive backends.
-- **Open Source**: Trying to learn and strengthen the things i already know by contributing to Open source projets
-- 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-FFDA44?style=for-the-badge&logo=convex&logoColor=black)
+
+**Databases & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**ML & Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**DevOps & Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### 🚀 [SynIntView](https://github.com/mishradwaterlaw/SynIntView)
-A professional-grade Technical Interview Platform. This isn't just a "UI project"—it's a full-on feature implementation focusing on real-time engineering:
-- **WebRTC Video**: Multi-layout video conferencing with automated theater mode for screen sharing.
-- **Collaborative Editor**: A live-syncing Monaco editor for real-time coding assessments.
-- **Reactive Backend**: Powered by Convex for instant note-taking and state persistence.
-- **Auth & Security**: Secure GitHub OAuth integration via Auth.js.
+### EchoSort
 
-### 📊 [Titanic Dataset Exploration](https://github.com/mishradwaterlaw/titanicdatasetfirst-application)
-Basic data exploration using Pandas & Matplotlib. (Currently refining my ML skills to make this a full predictive model soon!)
+> Event photo sharing with facial recognition. Upload a selfie, get back every photo of you from the entire event gallery.
 
-> I keep things simple and open source. Most of what I do is public so I can track progress. PS- I post stories on Insta for things I make but they don't always make it to GitHub immediately because I'm a bit of a perfectionist (hehe). You're gonna have to trust me,the progress is real!
+A full-stack application built from scratch across five deployment platforms. Attendees visit a shared event link, take a selfie, and the system uses ArcFace face embeddings and pgvector cosine similarity search to find every matching photo in the event gallery.
 
----
+**What makes it non-trivial**
 
-## Connect
+- Decoupled ML pipeline: photo uploads are queued via Redis, processed asynchronously by a TensorFlow worker, and stored as 512-dimensional vectors in a pgvector HNSW index
+- Secure by design: private storage buckets, time-limited signed URLs, Row Level Security on every table, and JWT verification using getUser() not getSession()
+- Server Actions pattern: credentials never touch the browser bundle
+- Real per-file upload progress via XHR (Fetch API does not expose upload progress)
 
-Feel free to text or just say hi on Insta; I love talking to people about tech and music:
-
-[![Instagram](https://img.shields.io/badge/@tezashmishra-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tezashmishra)
+**Stack**: Next.js 14 · FastAPI · DeepFace/ArcFace · Supabase (PostgreSQL + pgvector + Auth + Storage) · Upstash Redis · Modal.com · Vercel · Render
 
 ---
 
-<sub>Everything here is a work in progress... just like me.</sub>
+### SynIntView
+
+[github.com/mishradwaterlaw/SynIntView](https://github.com/mishradwaterlaw/SynIntView)
+
+> Professional-grade technical interview platform focused on real-time engineering.
+
+- WebRTC video conferencing with multi-layout support and automated theater mode for screen sharing
+- Live-syncing Monaco editor for real-time collaborative coding assessments
+- Reactive backend powered by Convex for instant state persistence
+- Secure GitHub OAuth via Auth.js
+
+**Stack**: Next.js · TypeScript · WebRTC · Convex · Monaco Editor · Auth.js
+
+---
+
+### Titanic Dataset Exploration
+
+[github.com/mishradwaterlaw/titanicdatasetfirst-application](https://github.com/mishradwaterlaw/titanicdatasetfirst-application)
+
+> Data exploration and analysis using Pandas and Matplotlib. Currently extending this toward a full predictive ML model.
+
+**Stack**: Python · Pandas · NumPy · Matplotlib
+
+---
+
+## Currently Learning
+
+- **Vector databases and semantic search**: pgvector, embedding models, approximate nearest neighbor indexing
+- **ML deployment**: Serverless GPU workers, model serving, pipeline optimization
+- **DSA in C++**: Strengthening problem-solving foundations for technical interviews
+- **Open Source contribution**: Learning by reading and improving production codebases
+
+---
+
+<div align="center">
+
+Everything here is a work in progress, just like me.
+
+PS: I post behind-the-scenes on Instagram before things make it to GitHub. Progress is real, perfectionism is the delay.
+
+</div>
