@@ -6,7 +6,6 @@
 
 Learning to code, analyze data, and build real things, one project at a time.
 
-[![Instagram](https://img.shields.io/badge/@tezashmishra-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tezashmishra)
 
 </div>
 
