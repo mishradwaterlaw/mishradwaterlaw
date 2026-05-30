@@ -78,21 +78,6 @@ A full-stack application built from scratch across five deployment platforms. At
 
 ---
 
-### SynIntView
-
-[github.com/mishradwaterlaw/SynIntView](https://github.com/mishradwaterlaw/SynIntView)
-
-> Professional-grade technical interview platform focused on real-time engineering.
-
-- WebRTC video conferencing with multi-layout support and automated theater mode for screen sharing
-- Live-syncing Monaco editor for real-time collaborative coding assessments
-- Reactive backend powered by Convex for instant state persistence
-- Secure GitHub OAuth via Auth.js
-
-**Stack**: Next.js · TypeScript · WebRTC · Convex · Monaco Editor · Auth.js
-
----
-
 ### Titanic Dataset Exploration
 
 [github.com/mishradwaterlaw/titanicdatasetfirst-application](https://github.com/mishradwaterlaw/titanicdatasetfirst-application)
