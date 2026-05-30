@@ -80,16 +80,6 @@ A full-stack application built from scratch across five deployment platforms. At
 
 ---
 
-### Titanic Dataset Exploration
-
-[github.com/mishradwaterlaw/titanicdatasetfirst-application](https://github.com/mishradwaterlaw/titanicdatasetfirst-application)
-
-> Data exploration and analysis using Pandas and Matplotlib. Currently extending this toward a full predictive ML model.
-
-**Stack**: Python · Pandas · NumPy · Matplotlib
-
----
-
 ## Currently Learning
 
 - **Vector databases and semantic search**: pgvector, embedding models, approximate nearest neighbor indexing
