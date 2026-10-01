@@ -63,21 +63,7 @@ I document my journey through projects here on GitHub and share the behind-the-s
 
 ## Featured Projects
 
-### EchoSort
-https://github.com/mishradwaterlaw/echosort
-> Event photo sharing with facial recognition. Upload a selfie, get back every photo of you from the entire event gallery.
-
-A full-stack application built from scratch across five deployment platforms. Attendees visit a shared event link, take a selfie, and the system uses ArcFace face embeddings and pgvector cosine similarity search to find every matching photo in the event gallery.
-
-**What makes it non-trivial**
-
-- Decoupled ML pipeline: photo uploads are queued via Redis, processed asynchronously by a TensorFlow worker, and stored as 512-dimensional vectors in a pgvector HNSW index
-- Secure by design: private storage buckets, time-limited signed URLs, Row Level Security on every table, and JWT verification using getUser() not getSession()
-- Server Actions pattern: credentials never touch the browser bundle
-- Real per-file upload progress via XHR (Fetch API does not expose upload progress)
-
-**Stack**: Next.js 14 · FastAPI · DeepFace/ArcFace · Supabase (PostgreSQL + pgvector + Auth + Storage) · Upstash Redis · Modal.com · Vercel · Render
-
+IN PROGRESS
 ---
 
 ## Currently Learning
