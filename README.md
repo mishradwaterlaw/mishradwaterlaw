@@ -15,9 +15,9 @@ Designing distributed systems, async pipelines, and shipping real code to produc
 Second-year Information Technology student at JSS Science and Technology University. I build backend systems and contribute to open source production codebases. Not waiting to be senior enough to do real work.
 
 - Merged a bug fix in **kubernetes-sigs/kueue** (CNCF) fixing a Kubernetes 1.35 API regression in the MultiKueue controller
-- Fixed security vulnerabilities (argument injection, WebSocket hijacking) in **Headlamp**, a CNCF Sandbox project
+- Opened PR which Fixes security vulnerabilities (argument injection, WebSocket hijacking) in **Headlamp**, a CNCF Sandbox project
 - Built **EchoSort** — an async photo-retrieval platform with Redis Streams crash recovery, pgvector HNSW search, and a serverless ONNX ML worker
-- Solved **171 problems on LeetCode** (81 Easy, 87 Medium, 3 Hard)
+
 
 ---
 
