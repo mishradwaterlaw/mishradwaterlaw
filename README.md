@@ -95,17 +95,8 @@ Attendees upload a selfie and get back every photo of them from the event. Built
 
 ---
 
-## Stats
-
-![Tezash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishradwaterlaw&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishradwaterlaw&layout=compact&theme=default&hide_border=true)
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tezashmishra)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mishradwaterlaw)
 
 **tezashmishra@outlook.com**
