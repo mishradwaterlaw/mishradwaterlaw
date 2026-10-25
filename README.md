@@ -48,7 +48,7 @@ Attendees upload a selfie and get back every photo of them from the event. Built
 - Confidence-scored synthesis with conditional re-run router (up to 3 loops) and human-in-the-loop approval via LangGraph interrupts with SQLite checkpointing
 - Stack: LangGraph, FastAPI, Python, SQLite
 
-**ORCA** — Marine safety advisory platform (Smart India Hackathon)
+**[ORCA](https://github.com/mishradwaterlaw/orca-marine-reasoning)** — Marine safety advisory platform (Smart India Hackathon)
 
 - LangGraph multi-agent backend with Gemini-powered supervisor routing to parallel risk agents
 - Rule-based risk engine: wave height + wind speed thresholds to Safe/Caution/Unsafe with highest-severity-wins roll-up
@@ -91,7 +91,6 @@ Attendees upload a selfie and get back every photo of them from the event. Built
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Modal](https://img.shields.io/badge/Modal-000000?style=for-the-badge&logoColor=white)
 
 ---
 
